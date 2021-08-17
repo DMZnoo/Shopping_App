@@ -4,7 +4,9 @@
  */
 
 export type RootStackParamList = {
-  Root: undefined;
+  // Root: undefined;
+  ShoppingList: undefined;
+  CheckOut: undefined;
   NotFound: undefined;
 };
 
